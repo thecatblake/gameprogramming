@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.h(3,10): error C1083: include ファイルを開けません。'SDL.h':No such file or directory
+  (ソース ファイル 'Game.cpp' をコンパイルしています)
+  
+  Main.cpp
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.h(3,10): error C1083: include ファイルを開けません。'SDL.h':No such file or directory
+  (ソース ファイル 'Main.cpp' をコンパイルしています)
+  
+  コードを生成中...
