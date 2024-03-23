@@ -3,6 +3,8 @@
 #include <SDL.h>
 #undef main
 
+#include "Vector.h"
+
 class Game {
 public:
 	Game();
@@ -15,5 +17,12 @@ private:
 	void GenerateOutput();
 
 	SDL_Window* mWindow;
+	SDL_Renderer* mRenderer;
+	Uint32 mTicksCount;
 	bool mIsRunning;
+	Vector2 mPaddlePos;
+	Vector2 mBallPos;
+	Vector2 mBallVel;
+	int mThickness;
+	int mPaddleDir;
 };

@@ -1,4 +1,7 @@
 ﻿  Game.cpp
-  Main.cpp
-  コードを生成中...
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.cpp(38,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.cpp(40,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.cpp(41,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.cpp(101,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\gameprogramming\Game.cpp(102,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
   gameprogramming.vcxproj -> C:\Users\kruni\source\repos\gameprogramming\cpp\gameprogramming\x64\Debug\gameprogramming.exe
